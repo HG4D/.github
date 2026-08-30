@@ -1,7 +1,7 @@
 
 # HG4D 
 
-We believe in engineering exceptional software products that don't accept that misinformation, crime, polarizing politics, and social distortion are inevitable consequences of a world connected by web and mobile applications. These injuries result for the assumption that it's not possible to be an ethical and a profitable company, at the same time. 
+We believe in engineering exceptional software products. We don't accept that misinformation, crime, polarizing politics, and social distortion are inevitable consequences of a world connected by web and mobile applications. These injuries result for the assumption that it's not possible to be an ethical and a profitable company, at the same time. 
 
 We say; How can we know that when it's never been tried?
 
