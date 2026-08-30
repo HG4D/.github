@@ -1,13 +1,15 @@
 
 # HG4D 
 
-Building software that serves humanity.
+We believe in engineering exceptional software products that don't accept that misinformation, crime, polarizing politics, and social distortion are inevitable consequences of a world connected by web and mobile applications. These injuries result for the assumption that it's not possible to be an ethical and a profitable company, at the same time. 
 
-We design and develop systems grounded in quality, ethics, and human benefit. From prediction markets and financial transparency tools to AI-assisted decision making, we build for problems that matter.
+We say; How can we know that when it's never been tried?
+
+We design and develop systems grounded in quality, ethics, and human benefit. Truth and argument validation markets and financial transparency tools to AI-assisted decision making, we build for problems that matter.
 
 ## Our Mission
 
-To create software that upholds the highest standards of quality and ethical practice, making tools that genuinely improve human decision-making, transparency, and trust in systems that affect real lives.
+We raise the bar by crafting software to exceed the highest standards of quality, ethics, and user expectations. We exist to be  making tools that genuinely improve human decision-making, transparency, and trust in systems that affect real lives.
 
 ## Our Work
 
